@@ -18,7 +18,7 @@ Mis humildes conocimientos en Cloud:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
-Por si acaso la cosa se pone fea:
+Por si la cosa se pone fea:
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
 
