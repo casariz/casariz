@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-Soy **Daniel Felipe Casallas**, estudiante de Ingeniería con pasión por el desarrollo backend. Me especializo en crear soluciones robustas y escalables, siempre buscando aprender nuevas tecnologías y mejores prácticas.
+Soy **Daniel Casallas (@casariz)**, estudiante de Ingeniería con pasión por el desarrollo backend. Me especializo en crear soluciones robustas y escalables, siempre buscando aprender nuevas tecnologías y mejores prácticas.
 
 - 🎯 **Objetivo:** Convertirme en un desarrollador backend senior
 - 🌱 **Actualmente aprendiendo:** Flutter y Dart para desarrollo móvil
