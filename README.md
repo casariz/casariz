@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=35&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=!Hola%2C+soy+Daniel!%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-Actualmente soy estudiante de Ingeniería,  en un futuro próximo haré mi evolución a desarrollador backend
+Actualmente soy estudiante de Ingeniería,  en un futuro próximo haré mi evolución a desarrollador backend.
 
 Las tecnologías que uso:
 
